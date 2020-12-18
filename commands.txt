@@ -1,0 +1,5 @@
+git init-initalize the 
+
+git status- 
+
+notepad test.txt -to open the new file
