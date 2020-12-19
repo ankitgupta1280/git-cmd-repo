@@ -1,5 +1,37 @@
-git init-initalize the 
+git init-initalize the git , makes the folder ready for git use.
 
-git status- 
+git status-  tell the status as how many times commited and many more.
 
-notepad test.txt -to open the new file
+notepad test.txt -to open the new notepad file.
+
+git add filename.type   - it adds the file to staged area.
+
+git commit -m "message" -  it commits the staged area files to the local repo with the message given in the command.
+
+git config --global user.name "username"
+
+git config --global user.email "email"
+
+git remote add origin "repo url" - it is used to link local repo to remote repo.
+
+git push origin branchname - it is used to push files to remote repo in the given branch, files that are being committed.
+
+ls - to list the all files in the directory.
+
+git clone "git repo url" - it is used to clone the given repo into the current git.
+
+git pull origin branchname - it is used to pull from remote repo branch to local repo.
+
+git branch - to see no. of branches in the repo.
+
+git branch branchname - creates new branch in locla repo.
+
+git checkout branchname - uses to switch to other branch.
+
+git log - shows the commit in chronological order ,newly committed is at the top.(irrespective of the branch)
+
+#Note(not the command) - When we create new branch it takes all the previous commit of the master branch .
+
+git merge branchname - it will merge the given branchname into master.
+
+commands are there.
