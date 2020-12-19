@@ -34,4 +34,4 @@ git log - shows the commit in chronological order ,newly committed is at the top
 
 git merge branchname - it will merge the given branchname into master.
 
-commands are there.
+new commands are there.
